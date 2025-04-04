@@ -1,7 +1,7 @@
 Flask==2.1.2
 Flask-Cors==3.0.10
 werkzeug==2.1.2
-MySQL-python==1.2.5
+mysqlclient==1.2.5
 pdfplumber==0.6.0
 pandas==1.4.2
 openpyxl==3.0.10
